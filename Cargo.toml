@@ -1,5 +1,5 @@
 [package]
-name = "todo-d"
+name = "todod"
 version = "0.0.1"
 authors = ["Felix Karg <fkarg10@gmail.com>"]
 edition = "2018"
@@ -10,5 +10,5 @@ default-run = "todo"
 
 
 [dependencies]
-
+clap = "2.33"
 
